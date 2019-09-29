@@ -1,4 +1,4 @@
-title: Simple Node.js Template
+title: Ceaser Cipher
 plan:
-- title: Node.js Snippet
-  statement: statement.md
+  - title: Encoding
+    statement: part1/statement.md
