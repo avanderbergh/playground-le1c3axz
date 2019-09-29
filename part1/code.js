@@ -11,7 +11,7 @@ function encode(message, key) {
   return encodedMessage;
 }
 
-// autofold {
+// { autofold
 function job(checkEncoding) {
   checkEncoding(encode);
 }
