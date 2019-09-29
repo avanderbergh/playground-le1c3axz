@@ -6,7 +6,7 @@ This Node.js template lets you get started quickly with a simple one-page playgr
 console.log("Hello World!");
 ```
 
-@[Look here]({"stubs":["code.js"], "command": "node code.js", "layout": "aside"})
+@[Look here]({"stubs":["code.js"], "command": "node code.js", "layout": "aside", "project": "part1"})
 
 # Advanced usage
 
