@@ -3,5 +3,6 @@ plan:
   - title: Encoding
     statement: part1/statement.md
 projects:
-  root: /part1
-  runner: techio/node-npm-runner
+  part1:
+    root: /part1
+    runner: techio/node-npm-runner
