@@ -1,3 +1,6 @@
-let alphabet = "abcdefghijklmnopqrstuvwxyz ";
+function job(callback) {
+  let alphabet = "abcdefghijklmnopqrstuvwxyz ";
+  callback(alphabet);
+}
 
-console.log(alphabet);
+module.exports = job;
