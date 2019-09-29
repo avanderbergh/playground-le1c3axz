@@ -5,6 +5,7 @@ function checkEncoding(encode) {
   } else {
     console.log("TECHIO> success false");
   }
+  console.log("TECHIO> --message Message was encoded as " + encodedMessage);
 }
 
 require("./code")(checkEncoding);
