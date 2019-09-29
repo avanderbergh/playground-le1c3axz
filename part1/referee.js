@@ -1,6 +1,6 @@
-function callback(message) {
-  if (message == "abc") console.log("TECHIO> success true");
-  else console.log("TECHIO> success false");
+function checkEncoding(encode) {
+  let encodedMessage = encode("hello", 7);
+  console.log("TECHIO> success " + encodedMessage == "olssv");
 }
 
-require("./code")(callback);
+require("./code")(checkEncoding);
