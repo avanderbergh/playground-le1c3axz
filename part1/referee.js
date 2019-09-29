@@ -1,3 +1,5 @@
+const alphabet = "abcdefghijklmnopqrstuvwxyz";
+
 function decode(message, key) {
   let decodedMessage = "";
   for (let i = 0; i < message.length; i++) {
