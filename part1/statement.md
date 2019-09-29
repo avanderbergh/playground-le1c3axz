@@ -1,12 +1,7 @@
 # Caesar Cipher Encoding / Decoding
 
-This Node.js template lets you get started quickly with a simple one-page playground.
-
-```javascript runnable
-console.log("Hello World!");
-```
-
-@[Look here]({"stubs":["code.js"], "command": "node referee.js", "layout": "aside", "project": "part1"})
+Set the alphabet equal to "abcdefghijklmnopqrstuvwxyz"
+@[Look here]({"stubs":["code.js"], "command": "node referee.js", "layout": "inline", "project": "part1"})
 
 # Advanced usage
 
