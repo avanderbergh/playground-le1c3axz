@@ -1,6 +1,6 @@
 function callback(message) {
-  if (message == "abc") console.log("TECHIO> Correct");
-  else console.log("TECHIO> The alphabet should be abc");
+  if (message == "abc") console.log("TECHIO> success true");
+  else console.log("TECHIO> success false");
 }
 
 require("./code")(callback);
