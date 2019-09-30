@@ -1,8 +1,13 @@
 title: Ceaser Cipher
 plan:
-  - title: Encoding
+  - title: Working with text
     statement: part1/statement.md
+  - title: Encoding
+    statement: part0/statement.md
 projects:
   part1:
     root: /part1
+    runner: textio/node-npm-runner
+  part0:
+    root: /part0
     runner: techio/node-npm-runner
