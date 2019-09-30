@@ -4,7 +4,7 @@ const myString = "dQbQCMYkgMCiwHEZ4MGIU2JPmmSFQyCc3hnL4iqxvMm3CjLMAHSTUtuYygrs8J
 
 const values = require("./code");
 
-let correctChar = myString.charAt(59 + 1);
+let correctChar = myString.charAt(59 - 1);
 let correctPosition = myString.indexOf("j") + 1
 
 if (values.myChar != correctChar) {
@@ -15,5 +15,5 @@ if (values.position != correctPosition) {
 }
 
 console.log("TECHIO> success " + String(success))
-console.log("TECHIO> message myChar:" + values.myChar + " should be: " + correctChar);
-console.log("TECHIO> message position:" + values.position + " should be: " + correctPosition);
+console.log("TECHIO> message myChar:" + values.myChar);
+console.log("TECHIO> message position:" + values.position);
