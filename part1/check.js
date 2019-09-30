@@ -1,5 +1,6 @@
 const values = require("./code");
 let success = true;
+console.log("TECHIO> message values: " + JSON.stringify(values));
 
 if (values.alphabet != "abcdefghijklmnopqrstuvwxyz") {
   console.log("TECHIO> message alphabet is not correctly declared");
