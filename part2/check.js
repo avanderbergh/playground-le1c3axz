@@ -11,5 +11,5 @@ if (sum == expectedSum) {
     console.log("TECHIO> message Correct!")
 } else {
     console.log("TECHIO> success false");
-    console.log("TECHIO> message Incorrect! Sum is " + sum)
+    console.log("TECHIO> message Incorrect! Sum is " + sum + " should be " + expectedSum)
 }
