@@ -20,4 +20,4 @@ const country = "Germany";
 
 Now, for our caesar cipher decryption program, we will need to store our message and all the letters in our alphabet as Strings. In the code below, create a variable called `message` and set it to _hello_ and a constant called `alphabet` set it to _abcdefghijklmnopqrstuvwxyz_
 
-@[Your turn]({"stubs": ["code.js"], "command": "node":"check.js", "project": "part1"})
+@[Your turn]({"stubs": ["code.js"], "command": "node check.js", "project": "part1"})
