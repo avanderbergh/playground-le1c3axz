@@ -2,7 +2,7 @@
 
 In this activity, we will be working with text values. In JavaScript, text values are stored in a String Data Type.
 
-**Read More about the String Data Type [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)**
+**Learn more about the String Data Type [here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)**
 
 Strings are declared using the " ' or `respectively.
 
