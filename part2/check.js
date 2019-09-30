@@ -1,7 +1,7 @@
 let expectedSum = 0;
  
 for (i = 1; i <= 100; i += 5) {
-    sum += i
+    expectedSum += i
 }
 
 let sum = require("./code");
