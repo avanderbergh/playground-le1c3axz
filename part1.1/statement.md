@@ -37,4 +37,4 @@ console.log("The character \"e\"'s position is " + position);
 
 In the code below, create a variable called `myChar` and set it to the character at position 59 of the string `myString`. 
 
-@[Your Turn]({"stubs": ["code.js"], "command" : "node check.js", "project:": "part1.1"})
+@[Your Turn]({"stubs": ["code.js"], "command" : "node check.js", "project": "part1.1"})
