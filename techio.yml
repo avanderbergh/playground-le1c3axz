@@ -2,6 +2,8 @@ title: Ceaser Cipher
 plan:
   - title: Working with text
     statement: part1/statement.md
+  - title: Loops
+    statement: part2/statement.md
   - title: Encoding
     statement: part0/statement.md
 projects:
