@@ -9,3 +9,9 @@ if (values.myChar == myString.charAt(60)) {
 } else {
     console.log("TECHIO> success false");
 }
+
+if (values.position == myString.indexOf("j") + 1) {
+    console.log("TECHIO> success true");
+} else {
+    console.log("TECHIO> success false");
+}

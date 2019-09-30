@@ -35,6 +35,8 @@ let position = ALPHABET.indexOf("e") + 1;
 console.log("The character \"e\"'s position is " + position);
 ```
 
-In the code below, create a variable called `myChar` and set it to the character at position 59 of the string `myString`. 
+In the code below, create a variable called `myChar` and set it to the character at 59th position of the string `myString`. 
+
+Also create a variable called `position` and set it equal to the position of the first occurance of the character `j`
 
 @[Your Turn]({"stubs": ["code.js"], "command" : "node check.js", "project": "part1.1"})
