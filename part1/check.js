@@ -1,15 +1,14 @@
 const values = require("./code");
 let success = true;
-console.log("TECHIO> message values: " + JSON.stringify(values));
-console.log("TECHIO> message alphabet is " + values.alphabet);
-console.log("TECHIO> message message is " + values.message);
+console.log("TECHIO> message alphabet = " + values.alphabet);
+console.log("TECHIO> message message = " + values.message);
 
 if (values.alphabet != "abcdefghijklmnopqrstuvwxyz") {
-  console.log("TECHIO> message alphabet is not correctly declared");
+  console.log('TECHIO> message alphabet should be "hello"');
   success = false;
 }
 if (values.message != "hello") {
-  console.log("TECHIO> message alphabet is not correctly declared");
+  console.log('TECHIO> message message should be "hello"');
   success = false;
 }
 

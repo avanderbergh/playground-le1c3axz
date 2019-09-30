@@ -1,6 +1,6 @@
 // Enter your code here
 
 // { autofold
-module.exports = { alphabet: alphabet, message: message };
+module.exports = { alphabet: ALPHABET, message: message };
 //
 // }
