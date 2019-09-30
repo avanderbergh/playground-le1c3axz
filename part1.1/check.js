@@ -6,6 +6,8 @@ const values = require("./code");
 
 console.log("TECHIO> message your character is " + values.myChar)
 
+console.log("TECHIO> message myChar :" + values.myChar + " position: " + values.position)
+
 if (values.myChar != myString.charAt(60)) {
     success = false
 } 
