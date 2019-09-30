@@ -6,6 +6,8 @@ plan:
     statement: part1.1/statement.md
   - title: Loops
     statement: part2/statement.md
+  - title: Loops and Strings
+    statement: part3/statement.md
   - title: Encoding
     statement: part0/statement.md
 projects:
