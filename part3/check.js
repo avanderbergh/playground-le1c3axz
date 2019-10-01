@@ -1,4 +1,4 @@
-const string =
+let string =
   "cbcbeadaedabcaeadabaecbeadbbdecacbdbebbcaaeecbbdccaddeacacddaceadddeccbbbcccbbcacaddcddeeeeeecbceaba";
 let newString = "";
 let numberOfZs = 0;
