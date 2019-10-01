@@ -41,4 +41,4 @@ console.log("Our String is now: " + someString);
 
 Now it's your turn.
 In the program below, replace all the "a"s with the letter "z", and create a variable named numberOfZs and set that equal to the number of "z"s that apprear in the new String.
-@[Replace the "a"s]("stubs": ["code.js"], "command": "node check.js", "project": "part3")
+@[Replace a with z]("stubs": ["code.js"], "command": "node check.js", "project": "part3")
