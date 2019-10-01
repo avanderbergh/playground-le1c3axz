@@ -34,6 +34,11 @@ for (let i = 0; i < someString.length; i++) {
   if (currentChar == "a") newString += "*";
   else newString += currentChar;
 }
-
-console.log("Our new String is: " + newString);
+// We can now replace the old string with the new string.
+someString = newString;
+console.log("Our String is now: " + someString);
 ```
+
+Now it's your turn.
+In the program below, replace all the "a"s with the letter "z", and create a variable named numberOfZs and set that equal to the number of "z"s that apprear in the new String.
+@[Replace the "a"s]("stubs": ["code.js"], "command": "node check.js", "project": "part3")

@@ -20,6 +20,9 @@ projects:
   part2:
     root: /part2
     runner: techio/node-npm-runner
+  part3:
+    root: /part3
+    runner: techio/node-npm-runner
   part0:
     root: /part0
     runner: techio/node-npm-runner
