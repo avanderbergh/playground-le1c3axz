@@ -57,6 +57,6 @@ function add(a, b) {
 }
 
 let answer = add(5, 10);
-cosole.log(answer);
+console.log(answer);
 ```
 
