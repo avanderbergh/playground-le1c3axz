@@ -1,5 +1,5 @@
 
 
 // { autofold
-
+module.exports = multiply;
 // }

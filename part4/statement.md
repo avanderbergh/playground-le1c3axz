@@ -32,7 +32,7 @@ bark();
 
 Sometimes we want to pass some information to a function. The information we pass to a function is called a parameter.
 
-In the code above, we defined a function called bark, and we called it 3 times in a row to make it run 3 times. However, what if we wanted to bark more times? We can pass the number of times we want to bark into the function.
+In the code above, we defined a function called bark, and we called it 3 times in a row to make it run 3 times. However, what if we wanted to bark more times? We can pass the number of times we want to bark into the function. The parameter we pass then becomes a variable available to the function.
 
 ```javascript runnable
 // We declare a function with a parameter for the amount of times we want to bark.
@@ -60,3 +60,6 @@ let answer = add(5, 10);
 console.log(answer);
 ```
 
+Now create a function named _multiply_ which takes 2 parameters, multiplies them and returns the result.
+
+@[Your Turn]({"stubs": "code.js", "command": "node check.js", "project": "part4"})
