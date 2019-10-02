@@ -62,4 +62,4 @@ console.log(answer);
 
 Now create a function named _multiply_ which takes 2 parameters, multiplies them and returns the result.
 
-@[Your Turn]({"stubs": "code.js", "command": "node check.js", "project": "part4"})
+@[Your Turn]({"stubs": ["code.js"], "command": "node check.js", "project": "part4"})
