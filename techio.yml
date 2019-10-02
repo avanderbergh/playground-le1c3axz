@@ -8,7 +8,7 @@ plan:
     statement: part2/statement.md
   - title: Loops and Strings
     statement: part3/statement.md
-  -title: Functions
+  - title: Functions
     statement: part4/statement.md
   - title: More Soon
     statement: more-soon.md
