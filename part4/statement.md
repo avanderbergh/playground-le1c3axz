@@ -34,7 +34,7 @@ Sometimes we want to pass some information to a function. The information we pas
 
 In the code above, we defined a function called bark, and we called it 3 times in a row to make it run 3 times. However, what if we wanted to bark more times? We can pass the number of times we want to bark into the function.
 
-```javascript
+```javascript runnable
 // We declare a function with a parameter for the amount of times we want to bark.
 function bark(times) {
   for (i = 0; i < times; i++) console.log("woof");
