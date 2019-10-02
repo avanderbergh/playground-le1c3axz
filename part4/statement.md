@@ -43,3 +43,20 @@ function bark(times) {
 // Then we call the function and pass the number of times we want to bark as a parameter
 bark(5);
 ```
+
+The functions above just perforemed an action. But it didn't return any value. We can use a function to perform an action and then return a value.
+
+In the code below, we declare a function to add two numbers together and return the result:
+```javascript runnable
+// Declare a function that takes 2 parameters for the numbers we want to add
+function add(a, b) {
+  // We create a variable to hold the answer
+  let x = a + b;
+  // Then we use the return keyword to return the answer.
+  return x;
+}
+
+let answer = add(5, 10);
+cosole.log(answer);
+```
+
