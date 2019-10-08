@@ -10,7 +10,7 @@ plan:
     statement: part3/statement.md
   - title: Functions
     statement: part4/statement.md
-  -title: More Functions
+  - title: More Functions
     statement: part5/statement.md
   - title: More Soon
     statement: more-soon.md
