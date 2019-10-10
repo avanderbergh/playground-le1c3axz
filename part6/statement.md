@@ -8,4 +8,4 @@ The function needs to take _2_ parameters. The _first_ parameter should be of ty
 
 Good Luck!
 
-@[Caesar Cipher Enciding Function]({"stubs": "code.js", "command": "node check.js", "project": "part6", "display": "aside"})
+@[Caesar Cipher Enciding Function]({"stubs": ["code.js"], "command": "node check.js", "project": "part6", "display": "aside"})
